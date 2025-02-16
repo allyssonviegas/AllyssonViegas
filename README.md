@@ -1,5 +1,5 @@
 ## Hi there, I'm Allysson
-Below are my repositories for code I use for Network Automation. All scripts are for educational purposes.
+Below are my repositories with some exemples of code I use for Network Automation. All scripts are for educational purposes.
 <!--
 **allyssonviegas/AllyssonViegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
